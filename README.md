@@ -22,14 +22,10 @@ Task:
 ## Python:
 5. Write a function with one parameter of type string, that returns a list containing the characters of the paramater. 
 If a character in the string is a space or a digit greater than 5, remove them and do not include them in the array.
-
     ```python
     def str_to_list(param):
         # todo: write the logic
     ```
-
-
-
 
 6. Write a function to convert Roman numerals to integers.
     ```python
